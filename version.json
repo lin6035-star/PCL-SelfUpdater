@@ -1,9 +1,9 @@
 {
-    "sha256":  "f8fa233fdb2a9737421e95706fc325e50349d84503c8b6ea3442e6b5354afdf0",
-    "changelog":  "首个版本：基于 PCL 开源代码的定制版，支持自我更新。",
-    "versionName":  "1.0.0",
+    "sha256":  "1ada77bc3a3792ec0e632c93a1717f74cff49bf810f75ad7468e59a504b8401b",
+    "changelog":  "1. 测试自动更新功能\n2. 修正了一些小问题",
+    "versionName":  "1.0.1",
     "major":  false,
-    "versionCode":  397,
-    "downloadUrl":  "https://cdn.jsdelivr.net/gh/lin6035-star/PCL-SelfUpdater@main/PCLClean_1.0.0.zip",
-    "size":  2465068
+    "versionCode":  398,
+    "downloadUrl":  "https://cdn.jsdelivr.net/gh/lin6035-star/PCL-SelfUpdater@main/PCLClean_1.0.1.zip",
+    "size":  2465281
 }
