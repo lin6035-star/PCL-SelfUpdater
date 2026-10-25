@@ -1,9 +1,10 @@
 {
-    "sha256":  "cf8020f7be2add27939da2c2a7f92de6e9d6de21317fd51a8afc9033dca3403d",
-    "changelog":  "1. 修复自动更新网络问题\n2. 修正了一些小问题",
-    "versionName":  "1.0.1",
+    "size":  2465757,
+    "downloadUrlBackup":  "https://cdn.jsdelivr.net/gh/lin6035-star/PCL-SelfUpdater@main/PCLClean_1.0.1.zip",
+    "downloadUrl":  "https://gitee.com/lin-yuh/PCL-SelfUpdater/raw/main/PCLClean_1.0.1.zip",
     "major":  false,
     "versionCode":  398,
-    "downloadUrl":  "https://cdn.jsdelivr.net/gh/lin6035-star/PCL-SelfUpdater@main/PCLClean_1.0.1.zip",
-    "size":  2465535
+    "versionName":  "1.0.1",
+    "changelog":  "1. 修复自动更新网络问题\n2. 改用 Gitee 作为更新源",
+    "sha256":  "01b0238cfeff99c625a41acc60f04ead9f76f47d44020f0b02afd70e4c01c67a"
 }
